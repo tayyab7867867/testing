@@ -1,1 +1,2 @@
-let muzamilVar = "Muzamil"
+let muzamilVar = "Muzamil";
+let Tayyab = "Tayyab";
